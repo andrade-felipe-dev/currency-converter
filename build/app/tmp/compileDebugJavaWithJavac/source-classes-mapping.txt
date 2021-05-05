@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+andrade/com/conversor_de_moedas/MainActivity.java
+ andrade.com.conversor_de_moedas.MainActivity
+andrade/com/conversor_de_moedas/BuildConfig.java
+ andrade.com.conversor_de_moedas.BuildConfig
